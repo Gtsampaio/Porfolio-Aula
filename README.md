@@ -32,6 +32,11 @@ O projeto foi desenvolvido com finalidade acadêmica e de treinamento, visando c
 
 Durante o desenvolvimento, foram praticados conceitos básicos de estrutura HTML, organização de conteúdo, seletores CSS, aplicação de estilos e construção de páginas web.
 
+## Referência e Créditos
+
+Projeto desenvolvido para fins educacionais, com base no tutorial [Create A Portfolio Website Using HTML and CSS Only](https://www.youtube.com/watch?v=-u3vE84Wo_U), disponível no YouTube. O código foi acompanhado e reproduzido com o objetivo de praticar os conceitos de HTML e CSS apresentados.
+
+
 ## Contribuições
 
 Este projeto possui finalidade acadêmica e de aprendizado, servindo como registro da prática realizada durante o curso do Instituto PROA. Sugestões de melhorias e contribuições são bem-vindas!
